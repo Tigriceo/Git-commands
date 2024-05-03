@@ -8,7 +8,7 @@ git clone https://github.com/goitacademy/vanilla-app-template.git folder-name # 
 # открываем папку folder-name в редакторе VSCode
 git remote -v # смотрим url репозитория в котором работаем
 git remote remove origin # удаляем привязку к репозиторию
-# создаем свой репозиторий просто через браузер
+# создаем свой репозиторий просто через браузер , например с названием test
 git remote add origin https://github.com/Tigriceo/test.git #добавить удалённый репозиторий что мы создали
 ```
 ### делаем изменения
@@ -17,7 +17,7 @@ git add .  # сохраняем все изменения
 git commit -m "Test commit" # делаем коммит
 git push origin main # пушим все в ветку (main)
 
-git checkout -b feature-test # создаем ветку , коміт делаем также (git add . и git commit -m "Test commit")
+git checkout -b feature-test # создаем ветку , коммит делаем также (git add . и git commit -m "Test commit")
 git push origin feature-test # пушим в свою ветку
 git checkout main # переключаеся на main
 git checkout feature-test # переключаеся на feature-test
