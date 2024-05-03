@@ -15,7 +15,7 @@ git remote add origin https://github.com/Tigriceo/test.git #додати від�
 ``` bash
 git add. # зберігаємо всі зміни
 git commit -m "Test commit" # робимо коміт
-git push origin main # пухаємо все в гілку (main)
+git push origin main # пушимо все в гілку (main)
 
 git checkout -b feature-test # створюємо гілку, комміт робимо також (git add. і git commit-m "Test commit")
 git push origin feature-test # пушим у свою гілку
