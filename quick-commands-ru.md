@@ -24,5 +24,5 @@ git checkout feature-test # переключаеся на feature-test
 ```
 ### забираем изменения с ветки
 ``` bash
-git pull origin main # берем последние изменения для ветки main
+git pull origin main # берем последние изменения для вашей ветки с ветки main
 ```
