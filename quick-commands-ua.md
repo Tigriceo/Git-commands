@@ -4,7 +4,7 @@
 
 ``` bash
 # для початку відкриваємо папку де буде працювати
-git clone https://github.com/goitacademy/vanilla-app-template.git folder-name # клонувати репозиторій в папку , де folder-name назва папки
+git clone https://github.com/user/user_rep_name.git folder-name # клонувати репозиторій в папку , де folder-name назва папки
 # відкриваємо папку folder-name у редакторі VSCode
 git remote -v # дивимося url репозиторія в якому працюємо
 git remote remove origin # видаляємо прив'язку до репозиторію
