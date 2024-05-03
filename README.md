@@ -113,7 +113,7 @@ git clone https://github.com/Tigriceo/Git-commands.git
 git clone https://github.com/Tigriceo/Git-commands.git FolderName 
 
 # клонировать репозиторий в текущую директорию
-git clone https://github.com:nicothin/web-design.git .           
+git clone https://github.com:Tigriceo/Git-commands.git .           
 ```
 
 
