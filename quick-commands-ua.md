@@ -24,5 +24,5 @@ git checkout feature-test # перемикається на feature-test
 ````
 ### забираємо зміни з гілки
 ``` bash
-git pull origin main # беремо останні зміни для гілки main
+git pull origin main # Отримання змін з гілки main в вашу нову гілку
 ````
