@@ -110,10 +110,7 @@ git init folder-name # создать новый проект в указанн�
 git clone https://github.com/Tigriceo/Git-commands.git    
 
 # клонировать удаленный репозиторий в директорию «FolderName»
-git clone https://github.com/Tigriceo/Git-commands.git FolderName 
-
-# клонировать репозиторий в текущую директорию
-git clone https://github.com:Tigriceo/Git-commands.git .           
+git clone https://github.com/Tigriceo/Git-commands.git FolderName          
 ```
 
 
